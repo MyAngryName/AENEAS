@@ -1,4 +1,5 @@
 # AENEAS
-![alt text](./Aeneas.jpg)
-Pro3 Aeneas
-hello! please admire our wonderful logo
+![a marvellous masterpiece of a logo](./Aeneas.jpg)
+Hello! 
+
+Please admire our wonderful logo
