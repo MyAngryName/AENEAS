@@ -1,5 +1,5 @@
 # AENEAS
-![a marvellous masterpiece of a logo](./Aeneas.jpg)
+![a marvellous masterpiece 
 Hello! 
 
 Please admire our wonderful logo!
